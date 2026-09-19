@@ -37,4 +37,4 @@ Applied AI in real business environments · LLMs and how they actually work in p
 ---
 
 📍 Madrid, Spain  
-🔗 [LinkedIn](https://www.linkedin.com/in/cesar-gonzalez-san-martin)
+🔗 [LinkedIn](www.linkedin.com/in/cesar-gonzalez-san-martín-ab4370172)
